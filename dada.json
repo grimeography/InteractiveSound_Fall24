@@ -1,0 +1,36 @@
+{
+	"pattrstorage" : 	{
+		"name" : "dada",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"slingblade" : [ 100 ],
+					"mypattr" : [ 100 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"slingblade" : [ 52 ],
+					"mypattr" : [ 52 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"slingblade" : [ 28 ],
+					"mypattr" : [ 28 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
